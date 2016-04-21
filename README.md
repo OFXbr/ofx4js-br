@@ -1,4 +1,5 @@
 # ofx4js-br
+Library JavaScript OFX (Open Financial Exchange) dedicated exclusively to Brazilian banks.
 
 [![GitHub issues](https://img.shields.io/github/issues/OFXbr/ofx4js-br.svg)](https://github.com/OFXbr/ofx4js-br/issues)
 [![GitHub forks](https://img.shields.io/github/forks/OFXbr/ofx4js-br.svg)](https://github.com/OFXbr/ofx4js-br/network) 
